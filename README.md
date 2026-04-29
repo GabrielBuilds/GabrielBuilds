@@ -5,17 +5,16 @@
 </h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHpueG56Znd6Z3ZueG56Znd6Z3ZueG56Znd6Z3ZueG56Znd6ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/o0vwzuFwCGAFO/giphy.gif" width="400">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHpueG56Znd6Z3ZueG56Znd6Z3ZueG56Znd6Z3ZueG56Znd6ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/o0vwzuFwCGAFO/giphy.gif" width="450">
 </p>
-
 
 ## ✨ Sobre Mim
 
 <p align="left">
   🎓 Estudante de Análise e Desenvolvimento de Sistemas (ADS). <br>
   🚀 Focado em aprender Linguagem C e Lógica de Programação. <br>
-  💻 Interessado em Hardware, Software e Desenvolvimento. <br>
-  🐧 Usuário de Linux e Windows.
+  💻 Interessado em Hardware, manutenção e montagem de computadores. <br>
+  🐧 Usuário de Linux Mint XFCE.
 </p>
 
 ## 🛠️ O que estou aprendendo
@@ -28,7 +27,7 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHpueG56Znd6Z3ZueG56Znd6Z3ZueG56Znd6Z3ZueG56Znd6ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/13HgwGsXF0aiGY/giphy.gif" width="350">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHpueG56Znd6Z3ZueG56Znd6Z3ZueG56Znd6Z3ZueG56Znd6ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/o0vwzuFwCGAFO/giphy.gif" width="400">
 </p>
 
 ## 🚀 Meus Projetos
