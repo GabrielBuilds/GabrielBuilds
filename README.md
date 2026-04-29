@@ -11,9 +11,9 @@
 ## ✨ Sobre Mim
 
 <p align="left">
-  🔭 Atualmente cursando **Análise e Desenvolvimento de Sistemas (ADS)**. <br>
-  👯 Focado em dominar o **Back-end** e arquitetura de computadores. <br>
-  🤔 Pergunte-me sobre **Python, C** ou sobre animes da temporada. <br>
+  🔭 Atualmente cursando Análise e Desenvolvimento de Sistemas (ADS). <br>
+  👯 Focado em dominar o Back-end e arquitetura de computadores. <br>
+  🤔 Pergunte-me sobre Python, C ou sobre animes da temporada. <br>
   ⚡ Fato Curioso: Entusiasta de hardware e PC building.
 </p>
 
@@ -41,7 +41,7 @@
 
 ### 🔹 [Data para Alistamento](https://github.com/GabrielBuilds/DATA-PARA-ALISTAMENTO)
 * Breve descrição: Automação em Python que calcula o período de alistamento com base no ano de nascimento.
-* *Tecnologias:* **Python**
+* *Tecnologias:* Python
 
 ## 👋 Vamos nos conectar
 
