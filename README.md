@@ -27,7 +27,7 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHpueG56Znd6Z3ZueG56Znd6Z3ZueG56Znd6Z3ZueG56Znd6ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/o0vwzuFwCGAFO/giphy.gif" width="400">
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHpueG56Znd6Z3ZueG56Znd6Z3ZueG56Znd6Z3ZueG56Znd6ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/o0vwzuFwCGAFO/giphy.gif" width="400">
 </p>
 
 ## 🚀 Meus Projetos
