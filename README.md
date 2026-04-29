@@ -13,8 +13,8 @@
 <p align="left">
   🎓 Estudante de Análise e Desenvolvimento de Sistemas (ADS). <br>
   🚀 Focado em aprender Linguagem C e Lógica de Programação. <br>
-  💻 Interessado em Hardware, manutenção e montagem de computadores. <br>
-  🐧 Usuário de Linux Mint XFCE.
+  💻 Interessado em Hardware, Software e Desenvolvimento. <br>
+  🐧 Usuário de Linux e Windows.
 </p>
 
 ## 🛠️ O que estou aprendendo
