@@ -1,58 +1,24 @@
 <h1 align="center">
-  <img src="https://img.shields.io/badge/Hello-World-purple?style=for-the-badge&logo=github&logoColor=white" />
-  <br>
-  Gabriel Ernesto 👨‍💻
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=9D4EDD&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%90%87%2C+I'm+Gabriel+Ernesto;Systems+Analysis+%26+Dev+Student;Focused+on+C+%26+Low-Level+Logic" alt="Typing SVG" />
 </h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHpueG56Znd6Z3ZueG56Znd6Z3ZueG56Znd6Z3ZueG56Znd6ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/o0vwzuFwCGAFO/giphy.gif" width="450">
+  <img src="https://img.shields.io/badge/Focus-Low--Level%20%26%20Systems-purple?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/OS-Linux%20Mint%20XFCE-94D015?style=for-the-badge&logo=linuxmint&logoColor=white" />
+  <img src="https://img.shields.io/badge/Status-Learning%20%26%20Building-blue?style=for-the-badge" />
 </p>
 
-## ✨ Sobre Mim
+---
 
-<p align="left">
-  🎓 Estudante de Análise e Desenvolvimento de Sistemas (ADS). <br>
-  🚀 Focado em aprender Linguagem C e Lógica de Programação. <br>
-  💻 Interessado em Hardware, manutenção e montagem de computadores. <br>
-  🐧 Usuário de Linux Mint XFCE.
-</p>
+### 👨‍💻 About Me
 
-## 🛠️ O que estou aprendendo
+```c
+#include <stdio.h>
 
-<p align="left">
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" />
-  <img src="https://img.shields.io/badge/Linux_Mint-94D015?style=for-the-badge&logo=linux-mint&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-</p>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHpueG56Znd6Z3ZueG56Znd6Z3ZueG56Znd6Z3ZueG56Znd6ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/13HgwGsXF0aiGY/giphy.gif" width="350">
-</p>
-
-## 🚀 Meus Projetos
-
-### 🔹 IFSP Projects
-Exercícios e algoritmos desenvolvidos durante as aulas no IFSP.
-Tecnologia: Linguagem C
-Link: https://github.com/GabrielBuilds/IFSP-projects
-
-### 🔹 Data para Alistamento
-Script para verificar o ano de alistamento militar obrigatório.
-Tecnologia: Python
-Link: https://github.com/GabrielBuilds/DATA-PARA-ALISTAMENTO
-
-## 👋 Contato
-
-<p align="left">
-  <a href="mailto:gabrieljsilvaernesto@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/ogabrielernesto">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GabrielBuilds&show_icons=true&theme=nord" />
-</p>
+int main() {
+    printf("🎓 Systems Analysis and Development Student @ IFSP\n");
+    printf("🚀 Currently diving deep into C, Algorithms, and Data Structures\n");
+    printf("💻 Passionate about Hardware Maintenance & System Tuning\n");
+    printf("🐧 Linux enthusiast running Linux Mint XFCE\n");
+    return 0;
+}
